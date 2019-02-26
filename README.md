@@ -1,3 +1,3 @@
 # Test
-Factorial numaber
+Factorial number
 Fibonacci number
